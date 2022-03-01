@@ -201,7 +201,7 @@
         <div class="form-group col-md-2" >
                 <label for="status" id="label_cor">Status</label>                  
                 <select class="form-control" id="status" name="status">                   
-                      <option><?php echo $resultado['status']?></option>
+                      <option>Selecionar</option>
                       <option>Ativo</option>
                       <option>Falecido</option>
                       <option>Deixou Ministerio</option>
